@@ -1,4 +1,5 @@
-GPT-PROJECT
+# GPT-Project
+
 This project represents my first journey into the world of React development. It's not just a collection of code but a testament to the learning and growth I've experienced along the way.
 
 Acknowledgments
@@ -16,4 +17,3 @@ Moving Forward
 Armed with the knowledge and confidence gained from this project, I'm excited to dive deeper into React and continue building more complex and impactful applications. The journey has just begun, and I look forward to where it will take me next.
 
 Thank you, JavaScript Mastery, for being an invaluable guide and mentor through this pivotal phase of my learning journey.
-
