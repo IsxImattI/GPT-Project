@@ -1,3 +1,17 @@
+![alt text](gptproject.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # GPT-Project
 
 This project represents my first journey into the world of React development. It's not just a collection of code but a testament to the learning and growth I've experienced along the way.
